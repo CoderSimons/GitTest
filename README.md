@@ -20,7 +20,7 @@
 
 ![image](https://github.com/CoderSimons/GitTest/blob/master/GitTest/step4.jpg)
 
-##### 第五步：用Xcode打开你的本地项目，点击菜单栏中的Source Control下的Commit项，将新建的项目文件Commit到本地仓库，再Push到GitHub。Commit到本地仓库的界面中有Push to remote选项, 建议勾选。之后想要直接Push到GitHub, 可以直接点击Source Control下的Push项会先Commit到本地再Push到GitHub。注意，这里的Commit Message是必须要填写的，用于记录本次提交的代码干了些什么。
+##### 第五步：用Xcode打开你的本地项目，点击菜单栏中的Source Control下的Commit项，将新建的项目文件Commit到本地仓库，再Push到GitHub。Commit到本地仓库的界面中有Push to remote选项, 建议勾选，勾选之后将意味着先Commit到本地，再Push到GitHub服务器。注意，这里的Commit Message是必须要填写的，用于记录本次提交的代码干了些什么。
 
 ![image](https://github.com/CoderSimons/GitTest/blob/master/GitTest/step5_1.jpg)
 ![image](https://github.com/CoderSimons/GitTest/blob/master/GitTest/step5_2.jpg)
