@@ -13,6 +13,7 @@
 		C866C3BE1D07196900CD172E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C866C3BC1D07196900CD172E /* Main.storyboard */; };
 		C866C3C01D07196900CD172E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C866C3BF1D07196900CD172E /* Assets.xcassets */; };
 		C866C3C31D07196900CD172E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C866C3C11D07196900CD172E /* LaunchScreen.storyboard */; };
+		C866C3CB1D071E3C00CD172E /* Icon.JPG in Resources */ = {isa = PBXBuildFile; fileRef = C866C3CA1D071E3C00CD172E /* Icon.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C866C3BF1D07196900CD172E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C866C3C21D07196900CD172E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C866C3C41D07196900CD172E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C866C3CA1D071E3C00CD172E /* Icon.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Icon.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				C866C3BF1D07196900CD172E /* Assets.xcassets */,
 				C866C3C11D07196900CD172E /* LaunchScreen.storyboard */,
 				C866C3C41D07196900CD172E /* Info.plist */,
+				C866C3CA1D071E3C00CD172E /* Icon.JPG */,
 				C866C3B31D07196900CD172E /* Supporting Files */,
 			);
 			path = GitTest;
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C866C3CB1D071E3C00CD172E /* Icon.JPG in Resources */,
 				C866C3C31D07196900CD172E /* LaunchScreen.storyboard in Resources */,
 				C866C3C01D07196900CD172E /* Assets.xcassets in Resources */,
 				C866C3BE1D07196900CD172E /* Main.storyboard in Resources */,
@@ -302,6 +306,7 @@
 				C866C3C91D07196900CD172E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
