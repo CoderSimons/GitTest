@@ -22,6 +22,7 @@
 		C866C3E91D07250700CD172E /* step5_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C866C3E11D07250700CD172E /* step5_3.jpg */; };
 		C866C3EA1D07250700CD172E /* step6_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C866C3E21D07250700CD172E /* step6_1.jpg */; };
 		C866C3EB1D07250700CD172E /* step6_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C866C3E31D07250700CD172E /* step6_2.jpg */; };
+		D0FF57D11DF1481B0096F5F1 /* JustTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D0FF57D01DF1481B0096F5F1 /* JustTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,8 @@
 		C866C3E11D07250700CD172E /* step5_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step5_3.jpg; sourceTree = "<group>"; };
 		C866C3E21D07250700CD172E /* step6_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step6_1.jpg; sourceTree = "<group>"; };
 		C866C3E31D07250700CD172E /* step6_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = step6_2.jpg; sourceTree = "<group>"; };
+		D0FF57CF1DF1481B0096F5F1 /* JustTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JustTest.h; sourceTree = "<group>"; };
+		D0FF57D01DF1481B0096F5F1 /* JustTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JustTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +82,8 @@
 				C866C3B61D07196900CD172E /* AppDelegate.h */,
 				C866C3B71D07196900CD172E /* AppDelegate.m */,
 				C866C3B91D07196900CD172E /* ViewController.h */,
+				D0FF57CF1DF1481B0096F5F1 /* JustTest.h */,
+				D0FF57D01DF1481B0096F5F1 /* JustTest.m */,
 				C866C3BA1D07196900CD172E /* ViewController.m */,
 				C866C3BC1D07196900CD172E /* Main.storyboard */,
 				C866C3BF1D07196900CD172E /* Assets.xcassets */,
@@ -188,6 +193,7 @@
 				C866C3BB1D07196900CD172E /* ViewController.m in Sources */,
 				C866C3B81D07196900CD172E /* AppDelegate.m in Sources */,
 				C866C3B51D07196900CD172E /* main.m in Sources */,
+				D0FF57D11DF1481B0096F5F1 /* JustTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
